@@ -1,5 +1,5 @@
 @echo off
-git remote set-url origin https://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@github.com/KeishaGanaban/cit142f.git
+git remote set-url origin https://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@github.com/KeishaGanaban/cit142f.git
 pause
 git add .
 git commit -m -"batch upload"
